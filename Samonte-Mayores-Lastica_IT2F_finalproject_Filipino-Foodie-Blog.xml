@@ -3,46 +3,232 @@
 <Filipino-Foodie>
 
 <home>
+
 <food>Arroz Caldo</food>
+   <title>Arros Caldo</title>
+   <content>With Spanish and Chinese influences, arroz caldo is a great choice if 
+   you are looking for healthy food in Philippines. The name of this wonderful dish 
+   literally translates to ‘rice soup’ in English. Similar to the congee of Vietnam, 
+   arroz caldo is a rice and chicken porridge stewed in broth, chives, ginger, and 
+   occasionally, saffron. If you want a dish that has a soothing effect on your 
+   stomach and offers health benefits, there is nothing better than a bowl of 
+   delicious arroz caldo. </content>
+
 <food>Adobo</food>
+   <title>Adobo</title>
+   <content>No list of the top 10 Filipino foods can begin without the famous Adobo on 
+   top. The unofficial Philippines national food is made with pork or chicken simmered 
+   in soy sauce and vinegar with loads of black pepper and crushed garlic. Adobo is one 
+   of the few dishes in the Philippines with local origins as it was given the Spanish 
+   name later. This lip-smacking dish is as Filipino as you can get, and it goes with 
+   nothing else but rice. Every family in the Philippines has its own way of cooking adobo, 
+   so it might taste a little different from place to place.</content>
+
 <food>Sisig</food>
+   <title>Sisig</title>
+   <content>Sisig is a Filipino dish made from parts of a pig's face and belly, and chicken 
+   liver which is usually seasoned with calamansi, onions, and chili peppers. It originates 
+   from the Pampanga region in Luzon.Sisig is a staple of Kapampangan cuisine. The city 
+   government of Angeles, Pampanga, through City Ordinance No. 405, series of 2017, declared 
+   sizzling sisig babi ("pork sisig") as a tangible heritage of Angeles City.</content>
+
 <food>Lumpia</food>
+   <title>Lumpia</title>
+   <content>Feel like tasting Filipino dishes for lunch? Try Lumpia. Influenced by Chinese 
+   cuisine, this dish is a delicious deep-fried spring roll. The roll is stuffed with a 
+   mixture of chopped vegetables and minced meat. Combined with the right sauces, it is the 
+   most scrumptious dish you will ever have for lunch. This is definitely a traditional Filipino 
+   dish after trying which, you will never look at spring rolls the same way again. It is a major 
+   part of Philippines food culture.</content>
+
 <food>Pansit</food>
+   <title>Pansit</title>
+   <content>Also known as Pancit, this is another one of the most delicious Philippines foods 
+   influenced by Chinese cuisine. This simple dish is a combination of noodles and whatever meat 
+   or vegetables you want to add. Pancit is a name that originated from the Hokkien term ‘pian e 
+   sit’, which means ‘something conveniently cooked.’ It might be simple but it is rich with flavor 
+   and you will definitely love every bite of it.</content>
+
 <food>Sinigang</food>
+   <title>Sinigang</title>
+   <content>Often associated with tamarind, Sinigang is a Philippines traditional food that is sour 
+   and savory. The dish is a stew made with spinach, eggplant, tomatoes, onions, ginger, and fish sauce. 
+   You can choose the meat you want to make the dish with pork, beef, fish, or shrimp. No matter which 
+   one you choose, the result is always a mouthwatering stew served with rice or eaten on its own as soup. </content>
+
 <food>Lechon</food>
+   <title>Lechon</title>
+   <content>When it comes to popular Philippines food items present at every special occasion, lechon 
+   is probably one of the top ones. This is another dish with Spanish influence and no fiesta in the 
+   country is complete unless there is enough lechon for everyone.This dish is roast suckling pig that 
+   is cooked to perfection. Everyone loves the delicious crunchy skin. If you want to taste one of the 
+   most popular authentic Filipino dishes, you should definitely look for a place that serves traditional 
+   lechon. </content>
+
 <food>Cassava Cake</food>
+   <title>Cassava Cake</title>
+   <content>No list of the top 10 Filipino foods can begin without the famous Adobo on top. The unofficial 
+   Philippines national food is made with pork or chicken simmered in soy sauce and vinegar with loads of 
+   black pepper and crushed garlic.Adobo is one of the few dishes in the Philippines with local origins as 
+   it was given the Spanish name later. This lip-smacking dish is as Filipino as you can get, and it goes 
+   with nothing else but rice. Every family in the Philippines has its own way of cooking adobo, so it 
+   might taste a little different from place to place. </content>
+
 <food>Kare - kare</food>
+   <title>Kare - kare</title>
+   <content>Kare-kare is a Philippine stew (kare derives from "curry") that features a thick savory peanut 
+   sauce. It is generally made from a base of stewed oxtail, beef tripe, pork hocks, calves feet, pig's 
+   feet or trotters, various cuts of pork, beef stew meat, and occasionally offal. Vegetables, such as 
+   eggplant, Chinese cabbage, or other greens, daikon, green beans, okra, and asparagus beans, are added.
+   The stew is flavored with ground roasted peanuts or peanut butter, onions, and garlic. It is colored with
+    annatto and can be thickened with toasted or plain ground rice. Variations of kare-kare can be made 
+   with seafood, such as (prawns, squid, and mussels, or exclusively from vegetables. Condiments and other 
+   flavorings are usually added. It is often eaten with bagoong (shrimp paste), sometimes spiced with chili, 
+   ginisáng bagoóng (spiced and sautéed shrimp paste), and sprinkled with calamansi juice. Other seasonings are 
+   added at the table. Variants may include goat meat or (rarely) chicken.</content>
+
 <food>Dinuguan with puto</food>
+   <title>Dinuguan with Puto</title>
+   <content>Dinuguan at puto is considered as a good meal combination for most Filipinos. This refers to pork 
+    stew and steamed rice cake. The pork is sauteed in garlic and onions. Water, vinegar, and pork blood are 
+    added and then cooked until it becomes nice and thick. It is best eaten by dipping (or scooping) the blood 
+    stew using steamed rice cake (or what is called puto in Filipino) and eating both together.</content>
+
 <food>Bicol Express</food>
+   <title>Bicol Express</title>
+   <content>Feel like tasting Filipino dishes for lunch? Try Lumpia. Influenced by Chinese cuisine, this dish 
+   is a delicious deep-fried spring roll. The roll is stuffed with a mixture of chopped vegetables and minced 
+   meat. Combined with the right sauces, it is the most scrumptious dish you will ever have for lunch. This is 
+   definitely a traditional Filipino dish after trying which, you will never look at spring rolls the same way 
+   again. It is a major part of Philippines food culture.</content>
+
 <food>Halo - halo</food>
+   <title>Halo - halo</title>
+   <content>Halo-halo, officially spelled haluhalo, Tagalog for "mixed," is a popular cold dessert in the Philippines 
+   made up of crushed ice, evaporated milk or coconut milk, and various ingredients including ube jam (ube halaya), 
+   sweetened kidney or garbanzo beans, coconut strips, sago, gulaman (agar), pinipig, boiled taro or soft yams in cubes, 
+   flan, slices or portions of fruit preserves and other root crop preserves.The dessert is topped with a scoop of ube 
+   or mango ice cream. It is usually prepared in a tall clear glass and served with a long spoon. Halo-halo is considered 
+   to be the unofficial national dessert of the Philippines. The term "halo-halo" translates to "mixed" in English because 
+   the dessert is meant to be mixed before being consumed. This spelling has come to describe any object or situation composed 
+   of a similar, colorful combination of ingredients.</content>
+
 <food>Taho</food>
+   <title>Taho</title>
+   <content>Tahô is a Philippine snack food made of fresh soft/silken tofu, arnibal, and sago pearl. This staple comfort food is 
+   a signature sweet and tahô peddlers can be found all over the country. </content>
+
 <food>Suman</food>
+   <title>Suman</title>
+   <content>Suman or budbud is a rice cake originating in the Philippines. It is made from glutinous rice cooked in coconut milk, 
+   often wrapped in banana leaves, coconut leaves, or buli or buri palm leaves for steaming. It is usually eaten sprinkled with 
+   sugar or laden with latik.</content>
+
 <food>Chicharrón</food>
+   <title>Chicharrón</title>
+   <content>Chicharon, less commonly spelled tsitsaron, is ubiquitous, as it is a well-loved snack, and may be bought anywhere, 
+   from large supermarket chains to small neighborhood sari-sari stores and street vendors. It is popular as pulutan or tapas 
+   food to be eaten while consuming alcoholic beverages. It is also used as a topping on many native vegetable and noodle dishes. 
+   Pork chicharon is prepared by deep-frying dried pork rind with a little salt. It may be dipped in coconut vinegar spiced with 
+   soy sauce, chopped garlic and labuyo chili peppers, or eaten with other condiments like bagoong anchovies, lechon gravy sauce, 
+   or atchara papaya salad. Aside from pork rind, chicken skin may also be made into chicharong manok, whereas chicharong 
+   bulaklak—literally 'flower chicharrón', named for its distinctive shape—is made from pig offal. Tuna-skin chicharon 
+   is marketed as a healthier variation. In Cagayan, water buffalo hide is used to make "carabao chicharon". A distinct 
+   variant of chicharon involves cooking pork loin and meat in the same way, becoming bagnet. While similar and dissimilar 
+   to crispy pata, it is more popular as a meal than finger food, and has found its way to contemporary dishes and restaurants. 
+   Bagnet originates from Ilocos where it has been served since the 1960s.</content>
+
 <food>Balut</food>
+   <title>Balut</title>
+   <content>Feel like tasting Filipino dishes for lunch? Try Lumpia. Influenced by Chinese cuisine, this dish is a delicious 
+   deep-fried spring roll. The roll is stuffed with a mixture of chopped vegetables and minced meat. Combined with the right 
+   sauces, it is the most scrumptious dish you will ever have for lunch. This is definitely a traditional Filipino dish after 
+   trying which, you will never look at spring rolls the same way again. It is a major part of Philippines food culture.</content>
+
 <food>Torta</food>
+   <title>Torta</title>
+   <content>Torta is another Filipino dish with roots in Spain. In Spanish cuisine, it is a general term that 
+   refers to many different dishes. Within Filipino cuisine, it refers to omelets. Torta has scrambled eggs and 
+   other ingredients, including ground meat and vegetables. Many restaurants offer their own styles of torta. 
+   Tortang Alimasag is akin to crab cakes, containing egg and sauteed crab meat served inside the crab shells. 
+   You can eat torta for breakfast. But you can find it for lunch, served with salad or fried potatoes. This 
+   Torta recipe is perfect to try at home.</content>
+
 <food>Leche Flan</food>
+   <title>Leche Flan</title>
+   <content>Leche Flan is one of the most beloved and popular desserts in the Philippines. The word “leche” 
+   means milk in Spanish and leche flan is a local term derived from the original Spanish leche de flan, 
+   which means milk flan. Egg whites were used in the building of churches during the Spanish colonial era, 
+   and the egg yolks leftover did not to go to waste.A dessert was made out of them, which is now known as 
+   leche flan, otherwise known as crème caramel. The Philippine leche flan is a much heavier version of the 
+   original recipe, using more egg yolks and condensed milk. This special treat is served on all special 
+   occasions. It is a simple yet decadent dessert with a luscious caramel on top. It melts in your mouth 
+   and has a rich, silky, smooth and creamy custard texture.</content>
+
+
 <food>Batchoy</food>
+   <title>Batchoy</title>
+   <content>Batchoy is a noodle soup. It is extremely popular in La Paz, but you can find it throughout 
+   the country. Chefs prepare it with egg noodles in a pork and beef broth. They then put in pieces of pork, 
+   including chopped pork liver. La Paz Batchoy can contain additional ingredients. Chefs in La Paz like to 
+   put in fried garlic and raw eggs. You mix the eggs into the soup, and they cook inside the broth. Batchoy 
+   tagalog is another popular variant. It has misua noodles, which are salted and very thin. The broth is 
+   ginger-based instead of animal-based, but the soup can contain pieces of pork in it.</content>
+
 <food>Sapin - sapin</food>
-<food>Liempo</food>
+   <title>Sapin - sapin</title>
+   <content>Made with galapong (glutinous rice dough), coconut milk, sugar, condensed milk, and an occasional 
+   ube or jackfruit flavoring, this festive and colorful dish has a dense, chewy pudding-like texture, and is 
+   often seen at social gatherings or festive occasions. This colorful delicacy is very time-consuming to make. 
+   The process starts with making the sticky rice dough from scratch, then extracting the coconut milk and cooking 
+   ube halaya which is one of its many layers. It usually takes a whole day to finish this dessert. Sapin-Sapin is 
+   a festive looking dessert with vibrant colors and is usually served with latik or toasted coconut curd. It is 
+   visually appealing and typically has 3 layers; purple, yellow, and white.</content>
+
+<food>Liempo</food> 
+   <title>Liempo</title>
+   <content>Easy Liempo Inihaw is a type of pork barbecue. It is grilled the Filipino way. Liempo or pork belly are 
+   marinated in basic inihaw marinade composed of soy sauce, banana sauce, ground black pepper, and lemon 
+   (or calamansi). A special liquid seasoning intentionally created as a marinade for meats is also used. This 
+   ingredient makes this dish tastier. You will know more about it in the recipe below.</content>
+
 <food>Buko Pandan</food>
+   <title>Buko Pandan</title>
+   <content>Buko Pandan is a popular Filipino Dessert made using young coconut, pandan leaves (or Screwpine leaves), 
+   and sago pearls. At first glance, this dessert dish can be mistaken for Buko Salad. Both desserts are almost similar 
+   visually. The dish is composed of a sweet and creamy concoction. Condensed milk, all-purpose cream, and strings of 
+   young coconut are the main components. Sago pearls can also be added.</content>
 </home>
+
 
 <about>
 <about>About us</about>
 </about>
 
+
 <services>
 <svc>Satisfaction</svc>
+    <content>We provide happiness to the users. We help them share their culture and traditions through food so that 
+    they can be proud of their places. We bring smiles to the faces of every user by giving them the best quality of 
+    images. We improve our design so that we can satisfy and persuade the people to try the Filipino Foods.</conttent>
+
 <svc>Wide range Network</svc>
+<content>We provide a wide-reaching network where the food that you share can be seen by many people across the globe. 
+We reach different countries to let the Filipino food to be known and for others to try it. Having this wide networking 
+means that others can see the Filipino’s culture and tradition through their food.</content>
+
 <svc>Update and Security</svc>
+<content>We provide a tight security. The private information of our users can only be seen by a higher employee. Our 
+website maintenance and security tasks have a regular basis to maintain the integrity of our website. We do updates and 
+24/7 incoming filtering to block potential malware, DDoS attacks, cross-site scripting, and other unwanted intrusions 
+that could affect the website’s integrity.</content>
 </services>
+
 
 <contact>
 <con>+6393 0402 9635</con>
 <con>filipinofoodie@gmail.com</con>
 <con>Doña Aurora St. Mogpog, Marinduque</con>
 </contact>
-
-<components></components>
 
 </Filipino-Foodie>
