@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Filipino-Foodie>
+
+<home>
+<food>Arroz Caldo</food>
+<food>Adobo</food>
+<food>Sisig</food>
+<food>Lumpia</food>
+<food>Pansit</food>
+<food>Sinigang</food>
+<food>Lechon</food>
+<food>Cassava Cake</food>
+<food>Kare - kare</food>
+<food>Dinuguan with puto</food>
+<food>Bicol Express</food>
+<food>Halo - halo</food>
+<food>Taho</food>
+<food>Suman</food>
+<food>Chicharrón</food>
+<food>Balut</food>
+<food>Torta</food>
+<food>Leche Flan</food>
+<food>Batchoy</food>
+<food>Sapin - sapin</food>
+<food>Liempo</food>
+<food>Buko Pandan</food>
+</home>
+
+<about>
+<about>About us</about>
+</about>
+
+<services>
+<svc>Satisfaction</svc>
+<svc>Wide range Network</svc>
+<svc>Update and Security</svc>
+</services>
+
+<contact>
+<con>+6393 0402 9635</con>
+<con>filipinofoodie@gmail.com</con>
+<con>Doña Aurora St. Mogpog, Marinduque</con>
+</contact>
+
+<components></components>
+
+</Filipino-Foodie>
